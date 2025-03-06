@@ -1,0 +1,2 @@
+- binds public key to an identity
+- created by certificate authority
